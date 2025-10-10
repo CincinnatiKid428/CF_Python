@@ -30,8 +30,8 @@ Users should be able to create and modify recipes with ingredients, cooking time
 - ☑ Use `pip` to install and manage packages
 
 ### Exercise 1.2: Data Types in Python
-- ☐ Use data types and methods to execute Python commands that store recipes containing their own internal data
-- ☐ Enter a number of these recipes into another linear data structure
+- ☑ Use data types and methods to execute Python commands that store recipes containing their own internal data
+- ☑ Enter a number of these recipes into another linear data structure
 
 ### Exercise 1.3: Functions and Other Operations in Python
 - ☐ Create your first script on a `.py` script file
