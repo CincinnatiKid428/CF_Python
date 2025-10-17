@@ -1,4 +1,4 @@
-# 🍲🥣🍝 Recipe Application 🥗🍴🥞
+# 🍲🍝 Recipe Application 🥗🥞
 
 ## 🎯 Objective
 Achievement 1 : Build a command line version of a recipe application using Python.
@@ -34,13 +34,13 @@ Users should be able to create and modify recipes with ingredients, cooking time
 - ☑ Enter a number of these recipes into another linear data structure
 
 ### Exercise 1.3: Functions and Other Operations in Python
-- ☐ Create your first script on a `.py` script file
-- ☐ Build a script that uses `if-elif-else` statements, `for` loops, and functions to take recipes from the user then display them
+- ☑ Create your first script on a `.py` script file
+- ☑ Build a script that uses `if-elif-else` statements, `for` loops, and functions to take recipes from the user then display them
 
 ### Exercise 1.4: 
-- ☐ Create a Python script that takes recipes from the user and writes the data in a binary file
-- ☐ Create another script that reads the binary file and lists out the available ingredients. The user chooses an ingredient and the script displays all recipes which contain it
-- ☐ Use Python’s exception handling features to handle common errors
+- ☑ Create a Python script that takes recipes from the user and writes the data in a binary file
+- ☑ Create another script that reads the binary file and lists out the available ingredients. The user chooses an ingredient and the script displays all recipes which contain it
+- ☑ Use Python’s exception handling features to handle common errors
 
 ### Exercise 1.5: 
 - ☐ Build a custom class for your recipes, which contains its own data attributes for name, ingredients, cooking time, and difficulty, as well as other custom methods to interact with this data
