@@ -43,11 +43,11 @@ Users should be able to create and modify recipes with ingredients, cooking time
 - ☑ Use Python’s exception handling features to handle common errors
 
 ### Exercise 1.5: 
-- ☐ Build a custom class for your recipes, which contains its own data attributes for name, ingredients, cooking time, and difficulty, as well as other custom methods to interact with this data
+- ☑ Build a custom class for your recipes, which contains its own data attributes for name, ingredients, cooking time, and difficulty, as well as other custom methods to interact with this data
 
 ### Exercise 1.6: 
-- ☐ Set up a MySQL database and connect your scripts to it
-- ☐ Build an application that creates, reads, updates, and deletes recipes, as well as searching for
+- ☑ Set up a MySQL database and connect your scripts to it (created locally in a container with Docker)
+- ☑ Build an application that creates, reads, updates, and deletes recipes, as well as searching for
 them by a single ingredient
 
 ### Exercise 1.7: 
